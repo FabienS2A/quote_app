@@ -1,0 +1,11 @@
+/.venv
+/BDD
+/meili_data
+/keys
+config.yml
+docker-compose.yml
+load_data.ipynb
+Meili_tuto.md
+.DS_Store
+config.py
+/components/.env

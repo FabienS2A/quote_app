@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>"A Happy Day:-)"</title>
+    <link rel="stylesheet" href="{{url_for('static',filename='styles.css')}}">
+</head>
+<body>
+    <h1>a Day Quote!</h1>
+    <blockquote>
+        <p style="font-size:300%;">{{ quote.text }}</p>
+        <footer style="font-size:150%;">— {{ quote.author }}</footer>
+    </blockquote>
+    <a href="javascript:location.reload();">You want more ?</a>
+</body>
+</html>
