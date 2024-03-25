@@ -1,0 +1,16 @@
+2024-01-26 16:58:55,558 - Fabiens-MacBook-Pro.local - INFO - Ceci est un message informatif
+2024-01-26 16:59:13,961 - Fabiens-MacBook-Pro.local - INFO - Ceci est un message informatif
+2024-01-26 16:59:23,359 - Fabiens-MacBook-Pro.local - INFO - Ceci est un message informatif
+2024-01-26 16:59:26,707 - Fabiens-MacBook-Pro.local - INFO - Ceci est un message informatif
+2024-01-26 17:02:04,604 - Fabiens-MacBook-Pro.local - ERROR - Ceci est une erreur
+2024-01-26 17:03:38,558 - Fabiens-MacBook-Pro.local - INFO - Ceci est un message informatif
+2024-01-26 17:08:47,264 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-26 17:08:47,265 - INFO - [33mPress CTRL+C to quit[0m
+2024-01-26 17:08:47,267 - INFO -  * Restarting with stat
+2024-01-26 17:08:47,769 - WARNING -  * Debugger is active!
+2024-01-26 17:08:47,780 - INFO -  * Debugger PIN: 134-262-546
+2024-01-26 17:08:58,003 - INFO - Ceci est un message informatif
+2024-01-26 17:08:58,007 - INFO - 127.0.0.1 - - [26/Jan/2024 17:08:58] "GET / HTTP/1.1" 200 -
+2024-01-26 17:08:58,032 - INFO - 127.0.0.1 - - [26/Jan/2024 17:08:58] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-01-26 17:08:58,202 - INFO - 127.0.0.1 - - [26/Jan/2024 17:08:58] "[36mGET /static/img1.jpg HTTP/1.1[0m" 304 -
